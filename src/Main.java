@@ -21,6 +21,7 @@ public class Main {
         ArrayList4 = arrayorg.concatAndSort(ArrayList1,ArrayList2,ArrayList3);
         System.out.println(ArrayList4);
 
+        System.out.println("Successfully reverted in Git");
     }
 
 }
